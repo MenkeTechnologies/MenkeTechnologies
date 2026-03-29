@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenkeTechnologies&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenkeTechnologies&theme=default"
+    width="60%" height="60%" />
 </p>
 
 <p align="center">
